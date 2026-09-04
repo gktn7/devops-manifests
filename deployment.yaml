@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: devops-app-container
-        image: goktan7/devops-app:784dc55
+        image: goktan7/devops-app:8c6afce
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 5000
